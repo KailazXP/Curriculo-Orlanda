@@ -22,3 +22,9 @@ width: 60%;
 border-radius: 10px;
 box-shadow: 0px 4px 10px rgb(245, 53, 136);
 }
+footer{
+    background-color: #e82a2a00;
+    color: rgb(26, 247, 2);
+    padding: 15px;
+    margin-top: 30px;
+}
